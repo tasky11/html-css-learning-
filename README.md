@@ -1,25 +1,7 @@
-# HTML & CSS Learning
+# HTML & CSS Learning Journey
 
-This repository contains my HTML and CSS practice work.
+This repository is a collection of my HTML and CSS learning journey.
 
-## What I'm Learning
+I created this space to practice what I learn, experiment with different ideas, and keep a record of my progress as I improve my web development skills.
 
-- HTML Basics
-- HTML Tags
-- Images
-- Links
-- Lists
-- Headings
-- Paragraphs
-- Basic Web Page Structure
-
-## Projects
-
-### 01 - HTML Basics
-
-This folder contains my beginner HTML practice exercises.
-
-## Goal
-
-To build a strong foundation in HTML and CSS and gradually
-create responsive and professional web pages.
+I will continue updating this repository with my practice work and projects as I learn and grow.
