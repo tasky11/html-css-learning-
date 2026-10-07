@@ -1,6 +1,6 @@
 # HTML & CSS Learning Journey
 
-This repository is a collection of my HTML and CSS learning journey.
+All repository is a collection of my HTML and CSS learning journey.
 
 I created this space to practice what I learn, experiment with different ideas, and keep a record of my progress as I improve my web development skills.
 
